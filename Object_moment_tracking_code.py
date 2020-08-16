@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 #reading video
 cap=cv2.VideoCapture('m.mp4')
 while True:
